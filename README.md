@@ -1,6 +1,6 @@
 # Using propensity scores, matching, and the Weighted Least Squares (WLS) estimator to analyze the impact of catch shares policy
 
-#### **Disclaimer: The data used in this blog was synthetically generated for an assignment in my Master's program class on Environmental Policy Evaluation (i.e., data is fake so results have no real implications).**
+#### **Disclaimer**: The data used in this blog was synthetically generated for an assignment in my Master's program class on Environmental Policy Evaluation (i.e., data is fake so results have no real implications).
 
 ## Question
 
